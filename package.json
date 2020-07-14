@@ -1,0 +1,16 @@
+{
+  "name": "deck-of-cards.js",
+  "version": "0.1.0",
+  "description": "A virtual deck of cards as an extensible utility library.",
+  "main": "dist/index.js",
+  "repository": "git@github.com:Andrew565/DeckOfCards.js.git",
+  "author": "Andrew Steele <andrew565@gmail.com>",
+  "license": "Unlicense",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}

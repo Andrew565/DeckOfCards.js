@@ -14,11 +14,12 @@ export class DeckOfCards<Card> {
   shuffle(times: number): void {
     var cardsLength = this.drawPile.length;
     for (var i = 0; i < times; i++) {
-      this.drawPile.forEach(function (card, currentPosition) {
-        var newPosition = Math.floor(Math.random() * cardsLength);
+      for (const card of this.drawPile) {
+        const currentPosition = this.drawPile.indexOf(card);
+        const newPosition = Math.floor(Math.random() * cardsLength);
         this.drawPile[currentPosition] = this.drawPile[newPosition];
         this.drawPile[newPosition] = card;
-      });
+      }
     }
   }
 
