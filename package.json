@@ -1,5 +1,5 @@
 {
-  "name": "deck-of-cards.js",
+  "name": "@andrewcreated/deck-of-cards.js",
   "version": "0.1.0",
   "description": "A virtual deck of cards as an extensible utility library.",
   "main": "dist/index.js",
