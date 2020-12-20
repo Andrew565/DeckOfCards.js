@@ -1,209 +1,209 @@
 {
   "program": {
     "fileInfos": {
-      "../node_modules/typescript/lib/lib.es5.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts": {
         "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
         "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.d.ts": {
         "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
         "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
         "affectsGlobalScope": false
       },
-      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2016.d.ts": {
         "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
         "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
         "affectsGlobalScope": false
       },
-      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.d.ts": {
         "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
         "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
         "affectsGlobalScope": false
       },
-      "../node_modules/typescript/lib/lib.es2018.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.d.ts": {
         "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
         "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
         "affectsGlobalScope": false
       },
-      "../node_modules/typescript/lib/lib.es2019.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.d.ts": {
         "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
         "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
         "affectsGlobalScope": false
       },
-      "../node_modules/typescript/lib/lib.es2020.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.d.ts": {
         "version": "94b4108552f078722078d7c4a010ca4851063882f6c0c51a1468aa7a39aed4b3",
         "signature": "94b4108552f078722078d7c4a010ca4851063882f6c0c51a1468aa7a39aed4b3",
         "affectsGlobalScope": false
       },
-      "../node_modules/typescript/lib/lib.dom.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts": {
         "version": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
         "signature": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
         "version": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
         "signature": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
         "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
         "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.scripthost.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.scripthost.d.ts": {
         "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
         "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.core.d.ts": {
         "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
         "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
         "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
         "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
         "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
         "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
         "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
         "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
         "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
         "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
         "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
         "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
         "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
         "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
         "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
         "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
         "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
         "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
         "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
         "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.object.d.ts": {
         "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
         "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
         "version": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
         "signature": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.string.d.ts": {
         "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
         "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
         "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
         "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
         "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
         "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
         "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
         "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
         "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
         "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
         "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
         "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
         "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
         "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
         "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
         "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2019.array.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.array.d.ts": {
         "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
         "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2019.object.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.object.d.ts": {
         "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
         "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2019.string.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.string.d.ts": {
         "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
         "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
         "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
         "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
         "version": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
         "signature": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2020.promise.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.promise.d.ts": {
         "version": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
         "signature": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2020.string.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.string.d.ts": {
         "version": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
         "signature": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
         "version": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
         "signature": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
         "affectsGlobalScope": true
       },
-      "../node_modules/typescript/lib/lib.es2020.full.d.ts": {
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.full.d.ts": {
         "version": "f58c6d0669d1ee04b2fcb0e87fb949b6828602f3f29c7bf6c76a214f16fd50d5",
         "signature": "f58c6d0669d1ee04b2fcb0e87fb949b6828602f3f29c7bf6c76a214f16fd50d5",
         "affectsGlobalScope": false
       },
       "../standard52cardsandjokers.ts": {
-        "version": "da61d425b4e0df3dddc1688cae8480825ccbcf25d4c3bad0ed4bd1261a09ce66",
-        "signature": "c7a2809f85a1b401e9f436e42fb1f739e741bfd3e00221e5c8ba09b10f201e21",
+        "version": "8c64421f3785f09366889c21f634e61c483e741c01651818a8edf54977db62e9",
+        "signature": "20a1016ff704bb7b85cfc92ff75ffa39f3e060286d92efc2b7d12d6a45ff3a0c",
         "affectsGlobalScope": false
       },
       "../deckofcards.ts": {
@@ -212,13 +212,18 @@
         "affectsGlobalScope": false
       },
       "../cardrankarray.ts": {
-        "version": "00a8cc2360d56ab3d4256cb0a97bd9adc332e088ce48123af4b6b4438d59027c",
-        "signature": "f9462011cc407907baaabb8fbe8ff85d6f75b7b3c0f522570174d2cd52d6da5a",
+        "version": "06f633486392fd46d1af49a17ac3bc706daf844c0f59888e1ea2b82157e1af08",
+        "signature": "4d120b1241a2ba65f613459d89b1b40474a0c97194f1b3d4fefda7530c3a0af4",
+        "affectsGlobalScope": false
+      },
+      "../standardcardswithimages.ts": {
+        "version": "dbb7c4a8e5e9c99666a37f99899dd8b2b85c13a7e0f9114805d0a9fe139c36e7",
+        "signature": "73c2da29594c95fb3166c79e7074162d1254f83a1b7e0ce1fc16a5f3718b71e1",
         "affectsGlobalScope": false
       },
       "../index.ts": {
-        "version": "71cfba72fde0718fcdda5b2b4fac33d71e60c8ac95466f7dfb4e23959e447eb5",
-        "signature": "a929c8d4740618b8fe0d82e272a24355244ca3f0c193eaca65233eb9d64aa2bb",
+        "version": "95bb18d6f481f075ed303ca090af47e6f050e2eee064479e1892cd958e9d68fa",
+        "signature": "5173fb35771807c7a6ca9814754b6227b17cc351bdd0619be933c370e620f348",
         "affectsGlobalScope": false
       }
     },
@@ -249,7 +254,13 @@
         "../standard52cardsandjokers.ts"
       ],
       "../index.ts": [
-        "../deckofcards.ts"
+        "../cardrankarray.ts",
+        "../deckofcards.ts",
+        "../standard52cardsandjokers.ts",
+        "../standardcardswithimages.ts"
+      ],
+      "../standardcardswithimages.ts": [
+        "../standard52cardsandjokers.ts"
       ]
     },
     "exportedModulesMap": {
@@ -257,55 +268,62 @@
         "../standard52cardsandjokers.ts"
       ],
       "../index.ts": [
-        "../deckofcards.ts"
+        "../cardrankarray.ts",
+        "../deckofcards.ts",
+        "../standard52cardsandjokers.ts",
+        "../standardcardswithimages.ts"
+      ],
+      "../standardcardswithimages.ts": [
+        "../standard52cardsandjokers.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.full.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.string.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../.config/yarn/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
       "../cardrankarray.ts",
       "../deckofcards.ts",
       "../index.ts",
-      "../node_modules/typescript/lib/lib.dom.d.ts",
-      "../node_modules/typescript/lib/lib.dom.iterable.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
-      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
-      "../node_modules/typescript/lib/lib.es2016.d.ts",
-      "../node_modules/typescript/lib/lib.es2017.d.ts",
-      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
-      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
-      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
-      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
-      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
-      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
-      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
-      "../node_modules/typescript/lib/lib.es2018.d.ts",
-      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
-      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
-      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
-      "../node_modules/typescript/lib/lib.es2019.array.d.ts",
-      "../node_modules/typescript/lib/lib.es2019.d.ts",
-      "../node_modules/typescript/lib/lib.es2019.object.d.ts",
-      "../node_modules/typescript/lib/lib.es2019.string.d.ts",
-      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts",
-      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
-      "../node_modules/typescript/lib/lib.es2020.d.ts",
-      "../node_modules/typescript/lib/lib.es2020.full.d.ts",
-      "../node_modules/typescript/lib/lib.es2020.promise.d.ts",
-      "../node_modules/typescript/lib/lib.es2020.string.d.ts",
-      "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
-      "../node_modules/typescript/lib/lib.es5.d.ts",
-      "../node_modules/typescript/lib/lib.scripthost.d.ts",
-      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
-      "../standard52cardsandjokers.ts"
+      "../standard52cardsandjokers.ts",
+      "../standardcardswithimages.ts"
     ]
   },
-  "version": "3.9.6"
+  "version": "3.9.3"
 }

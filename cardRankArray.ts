@@ -16,3 +16,5 @@ export const cardRankArray: CardRankArray = [
   12, // Ace
   99, // Joker
 ];
+
+export default { cardRankArray };

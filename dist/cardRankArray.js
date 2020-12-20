@@ -17,4 +17,5 @@ exports.cardRankArray = [
     12,
     99,
 ];
+exports.default = { cardRankArray: exports.cardRankArray };
 //# sourceMappingURL=cardRankArray.js.map

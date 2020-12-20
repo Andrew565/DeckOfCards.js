@@ -6,6 +6,7 @@ export interface Standard52Card {
   name: string;
 }
 
+// All 52 cards here were created manually so that there would be no runtime performance hit required to re-create the standard deck every time
 export const standard52DeckOfCards: Standard52Card[] = [
   {
     numberRank: 0,
@@ -390,3 +391,10 @@ export const FancyJoker: Standard52Card = {
 };
 
 export const standard52DeckOfCardsWithJokers: Standard52Card[] = [...standard52DeckOfCards, PlainJoker, FancyJoker];
+
+export default {
+  FancyJoker,
+  PlainJoker,
+  standard52DeckOfCards,
+  standard52DeckOfCardsWithJokers,
+};
