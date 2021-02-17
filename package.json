@@ -8,9 +8,10 @@
   "license": "Unlicense",
   "private": false,
   "devDependencies": {
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.6",
+    "webpack": "^5.21.2"
   },
   "scripts": {
-    "build": "tsc && cp -r ./CardImages ./dist"
+    "build": "cp -r ./src/CardImages ./dist && tsc"
   }
 }

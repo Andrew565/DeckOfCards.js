@@ -1,8 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.standard52DeckOfCardsWithJokers = exports.FancyJoker = exports.PlainJoker = exports.standard52DeckOfCards = void 0;
 // All 52 cards here were created manually so that there would be no runtime performance hit required to re-create the standard deck every time
-exports.standard52DeckOfCards = [
+export const standard52DeckOfCards = [
     {
         numberRank: 0,
         nameRank: "Two",
@@ -368,25 +365,24 @@ exports.standard52DeckOfCards = [
         name: "Ace of Diamonds",
     },
 ];
-exports.PlainJoker = {
+export const PlainJoker = {
     numberRank: 99,
     nameRank: "Joker",
     initial: "JO",
     suit: "Joker",
     name: "Joker (Plain)",
 };
-exports.FancyJoker = {
+export const FancyJoker = {
     numberRank: 99,
     nameRank: "Joker",
     initial: "JO",
     suit: "Joker",
     name: "Joker (Fancy)",
 };
-exports.standard52DeckOfCardsWithJokers = [...exports.standard52DeckOfCards, exports.PlainJoker, exports.FancyJoker];
-exports.default = {
-    FancyJoker: exports.FancyJoker,
-    PlainJoker: exports.PlainJoker,
-    standard52DeckOfCards: exports.standard52DeckOfCards,
-    standard52DeckOfCardsWithJokers: exports.standard52DeckOfCardsWithJokers,
+export const standard52DeckOfCardsWithJokers = [...standard52DeckOfCards, PlainJoker, FancyJoker];
+export default {
+    FancyJoker,
+    PlainJoker,
+    standard52DeckOfCards,
+    standard52DeckOfCardsWithJokers,
 };
-//# sourceMappingURL=standard52CardsAndJokers.js.map

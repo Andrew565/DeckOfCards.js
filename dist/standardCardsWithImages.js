@@ -1,24 +1,19 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.standard52DeckOfCardsWithJokersAndImages = exports.FancyJokerWithImage = exports.PlainJokerWithImage = exports.standard52DeckOfCardsWithImages = void 0;
-const standard52CardsAndJokers_1 = require("./standard52CardsAndJokers");
-exports.standard52DeckOfCardsWithImages = () => standard52CardsAndJokers_1.standard52DeckOfCards.map((card) => {
-    let { nameRank, suit } = card;
-    nameRank = nameRank.toLowerCase();
-    const lowercaseSuit = suit.toLowerCase();
-    const imageFileName = `./CardImages/${nameRank}_of_${lowercaseSuit}.svg`;
-    return { ...card, image: imageFileName };
+import CardImages from "./CardImages";
+import { standard52DeckOfCards, PlainJoker, FancyJoker } from "./standard52CardsAndJokers";
+export const standard52DeckOfCardsWithImages = () => standard52DeckOfCards.map((card) => {
+    let { name } = card;
+    const image = CardImages[name.toLowerCase().replace(" ", "_")];
+    return { ...card, image };
 });
-exports.PlainJokerWithImage = { ...standard52CardsAndJokers_1.PlainJoker, image: "./CardImages/joker_plain.svg" };
-exports.FancyJokerWithImage = { ...standard52CardsAndJokers_1.FancyJoker, image: "./CardImages/joker_fancy.svg" };
-exports.standard52DeckOfCardsWithJokersAndImages = () => {
-    const standardDeckWithImages = exports.standard52DeckOfCardsWithImages();
-    return [...standardDeckWithImages, exports.PlainJokerWithImage, exports.FancyJokerWithImage];
+export const PlainJokerWithImage = { ...PlainJoker, image: CardImages.joker_plain };
+export const FancyJokerWithImage = { ...FancyJoker, image: CardImages.joker_fancy };
+export const standard52DeckOfCardsWithJokersAndImages = () => {
+    const standardDeckWithImages = standard52DeckOfCardsWithImages();
+    return [...standardDeckWithImages, PlainJokerWithImage, FancyJokerWithImage];
 };
-exports.default = {
-    FancyJokerWithImage: exports.FancyJokerWithImage,
-    PlainJokerWithImage: exports.PlainJokerWithImage,
-    standard52DeckOfCardsWithImages: exports.standard52DeckOfCardsWithImages,
-    standard52DeckOfCardsWithJokersAndImages: exports.standard52DeckOfCardsWithJokersAndImages,
+export default {
+    FancyJokerWithImage,
+    PlainJokerWithImage,
+    standard52DeckOfCardsWithImages,
+    standard52DeckOfCardsWithJokersAndImages,
 };
-//# sourceMappingURL=standardCardsWithImages.js.map

@@ -1,7 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.cardRankArray = void 0;
-exports.cardRankArray = [
+export const cardRankArray = [
     0,
     1,
     2,
@@ -17,5 +14,4 @@ exports.cardRankArray = [
     12,
     99,
 ];
-exports.default = { cardRankArray: exports.cardRankArray };
-//# sourceMappingURL=cardRankArray.js.map
+export default { cardRankArray };

@@ -1,8 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.baseDeck = exports.DeckOfCards = void 0;
-const standard52CardsAndJokers_1 = require("./standard52CardsAndJokers");
-class DeckOfCards {
+import { standard52DeckOfCards } from "./standard52CardsAndJokers";
+export class DeckOfCards {
     constructor(cards) {
         this.drawPile = cards;
         this.discardPile = [];
@@ -45,6 +42,4 @@ class DeckOfCards {
         return this.drawPile.splice(0, quantity);
     }
 }
-exports.DeckOfCards = DeckOfCards;
-exports.baseDeck = new DeckOfCards(standard52CardsAndJokers_1.standard52DeckOfCards);
-//# sourceMappingURL=DeckOfCards.js.map
+export const baseDeck = new DeckOfCards(standard52DeckOfCards);
