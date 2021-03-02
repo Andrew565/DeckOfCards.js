@@ -3,7 +3,7 @@ export class DeckOfCards {
     constructor(cards) {
         this.drawPile = cards;
         this.discardPile = [];
-        this.shuffle(7); // Seven shuffles is casino-standard, and only takes a millisecond anyways
+        this.shuffle(7); // Seven shuffles is casino-standard, and takes a millisecond anyways
     }
     shuffle(times) {
         var cardsLength = this.drawPile.length;

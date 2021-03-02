@@ -12,6 +12,6 @@
     "webpack": "^5.21.2"
   },
   "scripts": {
-    "build": "cp -r ./src/CardImages ./dist && tsc"
+    "build": "tsc && cp ./src/CardImages/*.svg ./dist/CardImages"
   }
 }

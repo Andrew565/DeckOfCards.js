@@ -212,7 +212,7 @@
         "affectsGlobalScope": false
       },
       "./src/deckofcards.ts": {
-        "version": "d4c3e501a94f149dc1a48739ee32284c207e8fb1cc2a81e98952047c9288fe6a",
+        "version": "58e49912030a85c98f34481abbafa8f434e200aa984d5f971361e2c09aaa9035",
         "signature": "0cdcbb500c1169982f4938a5d99a6b694bcc395aed8e92021668e22a764c5c59",
         "affectsGlobalScope": false
       },
@@ -221,19 +221,9 @@
         "signature": "4d120b1241a2ba65f613459d89b1b40474a0c97194f1b3d4fefda7530c3a0af4",
         "affectsGlobalScope": false
       },
-      "./src/cardimages/index.ts": {
-        "version": "d669b1b3a749362afd5d4d1d65a4beae76d684f7494488c121ec29d7872a92fc",
-        "signature": "0fa67406859740a21e55bdf290175a78f2d0f58afe59cadbd130d9ca77eb061d",
-        "affectsGlobalScope": false
-      },
-      "./src/standardcardswithimages.ts": {
-        "version": "466365074a5a5e1b2d259f96950dcd8cfe418f38bfb3a79eea868da0984a0c4a",
-        "signature": "73c2da29594c95fb3166c79e7074162d1254f83a1b7e0ce1fc16a5f3718b71e1",
-        "affectsGlobalScope": false
-      },
       "./src/index.ts": {
-        "version": "95bb18d6f481f075ed303ca090af47e6f050e2eee064479e1892cd958e9d68fa",
-        "signature": "5173fb35771807c7a6ca9814754b6227b17cc351bdd0619be933c370e620f348",
+        "version": "b9ea2e840e313c46edd45afdb24c5a27d534d32658ca00844458935efe076fb4",
+        "signature": "20d431eac37615980058988c1d72d99328c3cf0062b17a91b948a68e523a1c19",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/eslint/helpers.d.ts": {
@@ -700,20 +690,12 @@
       "./node_modules/@types/node/zlib.d.ts": [
         "./node_modules/@types/node/stream.d.ts"
       ],
-      "./src/cardimages/index.ts": [
-        "./src/standard52cardsandjokers.ts"
-      ],
       "./src/deckofcards.ts": [
         "./src/standard52cardsandjokers.ts"
       ],
       "./src/index.ts": [
         "./src/cardrankarray.ts",
         "./src/deckofcards.ts",
-        "./src/standard52cardsandjokers.ts",
-        "./src/standardcardswithimages.ts"
-      ],
-      "./src/standardcardswithimages.ts": [
-        "./src/cardimages/index.ts",
         "./src/standard52cardsandjokers.ts"
       ]
     },
@@ -903,10 +885,6 @@
       "./src/index.ts": [
         "./src/cardrankarray.ts",
         "./src/deckofcards.ts",
-        "./src/standard52cardsandjokers.ts",
-        "./src/standardcardswithimages.ts"
-      ],
-      "./src/standardcardswithimages.ts": [
         "./src/standard52cardsandjokers.ts"
       ]
     },
@@ -1004,12 +982,10 @@
       "./node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "./node_modules/typescript/lib/lib.scripthost.d.ts",
       "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
-      "./src/cardimages/index.ts",
       "./src/cardrankarray.ts",
       "./src/deckofcards.ts",
       "./src/index.ts",
-      "./src/standard52cardsandjokers.ts",
-      "./src/standardcardswithimages.ts"
+      "./src/standard52cardsandjokers.ts"
     ]
   },
   "version": "3.9.9"
