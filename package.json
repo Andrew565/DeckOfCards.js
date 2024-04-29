@@ -8,7 +8,7 @@
   "license": "Unlicense",
   "private": false,
   "scripts": {
-    "build": "esbuild src/index.js --bundle --minify --sourcemap --outfile=dist/index.js"
+    "build": "esbuild src/index.js --bundle --minify --sourcemap --format=esm --outfile=dist/index.js"
   },
   "devDependencies": {
     "esbuild": "0.20.2"
