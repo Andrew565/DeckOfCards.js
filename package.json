@@ -1,9 +1,15 @@
 {
-  "name": "@andrewcreated/deck-of-cards.js",
+  "name": "@andrewscripts/deck-of-cards.js",
   "version": "2.0.0",
   "description": "A virtual deck of cards as an extensible utility library.",
   "main": "dist/index.js",
-  "repository": "git@github.com:Andrew565/DeckOfCards.js.git",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Andrew565/DeckOfCards.js.git"
+  },
   "author": "Andrew Steele <andrew565@gmail.com>",
   "license": "Unlicense",
   "private": false,
