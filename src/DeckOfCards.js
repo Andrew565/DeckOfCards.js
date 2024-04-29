@@ -1,6 +1,6 @@
 import { standard52DeckOfCards } from "./standard52CardsAndJokers";
 
-/** @typedef {import(".").Card} Card */
+/** @typedef {{name: string}} Card */
 
 export class DeckOfCards {
   /** @type {Card[]} */

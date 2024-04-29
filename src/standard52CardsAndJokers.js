@@ -1,4 +1,11 @@
-/** @typedef {import(".").Standard52Card} Standard52Card */
+/**
+ * @typedef {Object} Standard52Card
+ * @prop {number} numberRank
+ * @prop {string} nameRank
+ * @prop {string} initial // The card's "symbol"
+ * @prop {"Clubs" | "Hearts" | "Spades" | "Diamonds" | "Joker"} suit
+ * @prop {string} name
+ */
 
 // All 52 cards here were created manually so that there would be no runtime performance hit required to re-create the standard deck every time
 /** @type {Standard52Card[]} */

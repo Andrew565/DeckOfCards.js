@@ -1,6 +1,6 @@
 {
   "name": "@andrewscripts/deck-of-cards.js",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A virtual deck of cards as an extensible utility library.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,9 +15,10 @@
   "license": "Unlicense",
   "private": false,
   "scripts": {
-    "build": "esbuild src/index.js --bundle --minify --sourcemap --format=esm --outfile=dist/index.js && cp src/index.d.ts dist/index.d.ts"
+    "build": "esbuild src/index.js --bundle --minify --sourcemap --format=esm --outfile=dist/index.js && npx tsc"
   },
   "devDependencies": {
-    "esbuild": "0.20.2"
+    "esbuild": "0.20.2",
+    "typescript": "^5.4.5"
   }
 }

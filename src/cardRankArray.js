@@ -1,4 +1,4 @@
-/** @type {import(".").CardRankArray} */
+/** @typedef {number[]} CardRankArray */
 export const cardRankArray = [
   0, // Two
   1, // Three
