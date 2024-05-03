@@ -1,5 +1,7 @@
-/** @typedef {{name: string}} Card */
-export class DeckOfCards {
+/** @template {{name: string}} Card */
+export class DeckOfCards<Card extends {
+    name: string;
+}> {
     /** @param {Card[]} cards */
     constructor(cards: Card[]);
     /** @type {Card[]} */
@@ -34,8 +36,5 @@ export class DeckOfCards {
      */
     drawFromDrawPile(quantity: number): Card[];
 }
-export const baseDeck: DeckOfCards;
-export type Card = {
-    name: string;
-};
+export const baseDeck: DeckOfCards<import("./standard52CardsAndJokers").Standard52Card>;
 //# sourceMappingURL=DeckOfCards.d.ts.map
