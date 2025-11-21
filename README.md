@@ -84,9 +84,9 @@ These two piles represent two of the three places where a card could be: in the 
 
 ### `shuffle`
 
-`(times: number) => void`
+`() => void`
 
-This function will go through the contents of the draw pile and randomly rearrange them. It does this using an algorithm created by INSERT_NAME_HERE that loops through the cards in the deck and creates a random number between 0 and the number of cards, then swaps the current card with the random number's position. The function takes a number - times - which governs the number of times to shuffle the pile.
+This function will go through the contents of the draw pile and randomly rearrange them. It does this using an algorithm called the Fisher-Yates shuffle that loops through the cards in the deck and creates a random number between 0 and the number of cards, then swaps the current card with the random number's position.
 
 ### `addToBottomOf`, `addTo`, and `addToTopOf`
 
