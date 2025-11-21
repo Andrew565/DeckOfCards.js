@@ -10,25 +10,19 @@ export class DeckOfCards {
 
   /** @param {Card[]} cards */
   constructor(cards) {
-    this.drawPile = cards;
+    this.drawPile = [...cards];
     this.discardPile = [];
 
-    this.shuffle(7); // Seven shuffles is casino-standard, and only takes a millisecond anyways
+    this.shuffle();
   }
 
   /**
    * @description This shuffle algorithm is an implementation of the Fisher-Yates algorithm
-   * @param {number} times
    */
-  shuffle(times) {
-    var cardsLength = this.drawPile.length;
-    for (var i = 0; i < times; i++) {
-      for (const card of this.drawPile) {
-        const currentPosition = this.drawPile.indexOf(card);
-        const newPosition = Math.floor(Math.random() * cardsLength);
-        this.drawPile[currentPosition] = this.drawPile[newPosition];
-        this.drawPile[newPosition] = card;
-      }
+  shuffle() {
+    for (let currentPosition = this.drawPile.length - 1; currentPosition > 0; currentPosition--) {
+      const newPosition = Math.floor(Math.random() * (currentPosition + 1));
+      [this.drawPile[currentPosition], this.drawPile[newPosition]] = [this.drawPile[newPosition], this.drawPile[currentPosition]];
     }
   }
 
