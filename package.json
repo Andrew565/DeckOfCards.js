@@ -1,6 +1,6 @@
 {
   "name": "@andrewscripts/deck-of-cards.js",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A virtual deck of cards as an extensible utility library.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
