@@ -10,9 +10,8 @@ export class DeckOfCards<Card extends {
     discardPile: Card[];
     /**
      * @description This shuffle algorithm is an implementation of the Fisher-Yates algorithm
-     * @param {number} times
      */
-    shuffle(times: number): void;
+    shuffle(): void;
     /** @param {Card[]} cards */
     addToBottomOfDiscardPile(cards: Card[]): void;
     /** @param {Card[]} cards */

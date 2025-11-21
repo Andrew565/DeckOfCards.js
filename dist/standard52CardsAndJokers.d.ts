@@ -1,11 +1,3 @@
-/**
- * @typedef {Object} Standard52Card
- * @prop {number} numberRank
- * @prop {string} nameRank
- * @prop {string} initial // The card's "symbol"
- * @prop {"Clubs" | "Hearts" | "Spades" | "Diamonds" | "Joker"} suit
- * @prop {string} name
- */
 /** @type {Standard52Card[]} */
 export const standard52DeckOfCards: Standard52Card[];
 /** @type {Standard52Card} */

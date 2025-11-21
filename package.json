@@ -15,10 +15,10 @@
   "license": "Unlicense",
   "private": false,
   "scripts": {
-    "build": "esbuild src/index.js --bundle --minify --sourcemap --format=esm --outfile=dist/index.js && npx tsc"
+    "build": "esbuild src/index.js --bundle --minify --sourcemap --format=esm --outdir=dist && npx tsc"
   },
   "devDependencies": {
-    "esbuild": "0.20.2",
-    "typescript": "^5.4.5"
+    "esbuild": "^0.27.0",
+    "typescript": "^5.9"
   }
 }
